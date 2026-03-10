@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pablo Morales</h1>
+<h3 align="center">Pentester | AI Security Researcher | Computer Engineer</h3>
 
-<!--
-**PamvInf/PamvInf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PamvInf?theme=tokyonight)](https://git.io/awesome-stats-card)
 
-Here are some ideas to get you started:
+<p align="center">
+Offensive Security • Artificial Intelligence • Cybersecurity Research
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧑‍💻 About Me
+
+- 🎓 Computer Engineer
+- 💡 Co-Founder of Transparenc-IA
+- 🛡️ Professional **Pentester**
+- 🧠 Working on **AI applied to Cybersecurity**
+- 🔬 Participating in **AI security research projects**
+- ⚔️ Focused on **Offensive Security, Red Teaming & AI vulnerabilities**
+
+---
+
+# 🏆 Certifications
+
+- 🧠 **CRTO — Certified Red Team Operator**
+- 🛡️ **CPTS — Certified Penetration Testing Specialist**
