@@ -11,7 +11,7 @@ Offensive Security • Artificial Intelligence • Cybersecurity Research
 # 🧑‍💻 About Me
 
 - 🎓 Computer Engineer
-- 💡 Co-Founder of Transparenc-IA
+- 💡 Co-Founder of [Transparenc-IA](https://web.archive.org/web/20250215175244/https://www.transparenc-ia.es/)
 - 🛡️ Professional **Pentester**
 - 🧠 Working on **AI applied to Cybersecurity**
 - 🔬 Participating in **AI security research projects**
